@@ -1,0 +1,113 @@
+{
+  "schema_version": "1.0",
+  "description": "日报趋势追踪与验证记录",
+  "trends": [
+    {
+      "trend_id": "2026-07-14-LT",
+      "report_date": "2026-07-14",
+      "period": "长期趋势",
+      "prediction": "消费信贷将形成“政策支持真实消费、模型辅助风险识别、人工承担关键决策、市场化处置不良”的闭环经营模式。",
+      "basis": "依据促消费规划扩大金融供给、AI审批坚持人机协同，以及消费金融机构加快市场化风险出清三类信号。",
+      "basis_news_ids": [
+        "N01",
+        "N03",
+        "N04"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N01",
+          "title": "《扩大消费“十五五”规划》明确加大消费领域信贷支持",
+          "source": "中国政府网 / 国家发展改革委",
+          "url": "https://big5.www.gov.cn/gate/big5/www.gov.cn/zhengce/202607/content_7075286.htm"
+        },
+        {
+          "news_id": "N03",
+          "title": "上半年消费金融公司不良资产转让规模超过500亿元",
+          "source": "经济观察网",
+          "url": "https://www.eeo.com.cn/2026/0709/950576.shtml"
+        },
+        {
+          "news_id": "N04",
+          "title": "银行探索大模型人机协同信贷审批，强调专家保留最终决策权",
+          "source": "新华网",
+          "url": "https://www.news.cn/tech/20260617/89dfdc17bc704515a8b06e432b10b51c/c.html"
+        }
+      ],
+      "validation_due": "2027-07-14",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
+    },
+    {
+      "trend_id": "2026-07-14-M01",
+      "report_date": "2026-07-14",
+      "period": "未来1个月",
+      "prediction": "暑期消费场景和贴息政策将推动银行继续加码消费贷营销，但机构会同步加强用途核验、优惠套利和新客首逾监控。",
+      "basis": "依据《扩大消费“十五五”规划》的信贷支持方向，以及多家银行已在旅游、教育等暑期场景推出低息和补贴活动。",
+      "basis_news_ids": [
+        "N01",
+        "N02"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N01",
+          "title": "《扩大消费“十五五”规划》明确加大消费领域信贷支持",
+          "source": "中国政府网 / 国家发展改革委",
+          "url": "https://big5.www.gov.cn/gate/big5/www.gov.cn/zhengce/202607/content_7075286.htm"
+        },
+        {
+          "news_id": "N02",
+          "title": "多家银行推出暑期消费贷让利活动，部分利率低至3%",
+          "source": "新华网（转引证券日报）",
+          "url": "https://www.xinhuanet.com/20260708/afd25675dbe942589b05ca056c20469c/c.html"
+        }
+      ],
+      "validation_due": "2026-08-13",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
+    },
+    {
+      "trend_id": "2026-07-14-M06",
+      "report_date": "2026-07-14",
+      "period": "未来3-6个月",
+      "prediction": "低价获客难以长期持续，银行和消费金融公司将把竞争重点转向客群分层、场景嵌入、存量复借与不良资产主动处置。",
+      "basis": "依据银行消费贷利率已下探至约3%，同时消金公司半年不良转让超过500亿元，收入空间与信用成本正形成双向挤压。",
+      "basis_news_ids": [
+        "N02",
+        "N03"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N02",
+          "title": "多家银行推出暑期消费贷让利活动，部分利率低至3%",
+          "source": "新华网（转引证券日报）",
+          "url": "https://www.xinhuanet.com/20260708/afd25675dbe942589b05ca056c20469c/c.html"
+        },
+        {
+          "news_id": "N03",
+          "title": "上半年消费金融公司不良资产转让规模超过500亿元",
+          "source": "经济观察网",
+          "url": "https://www.eeo.com.cn/2026/0709/950576.shtml"
+        }
+      ],
+      "validation_due": "2027-01-10",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
+    }
+  ],
+  "last_updated": "2026-07-14"
+}
