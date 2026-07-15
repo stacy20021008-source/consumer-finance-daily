@@ -107,7 +107,120 @@
         "evidence": [],
         "notes": null
       }
+    },
+    {
+      "trend_id": "2026-07-15-LT",
+      "report_date": "2026-07-15",
+      "period": "长期趋势",
+      "prediction": "消费金融将形成“稳定资金供给+政策支持真实消费+机构差异化风险定价”的经营框架，规模扩张将更受资产质量与客户权益约束。",
+      "basis": "N01提供金融体系流动性信号，N02明确国家层面的长期消费与信贷支持机制，N03反映市场竞争正从利率比拼转向场景、风控和综合服务。",
+      "basis_news_ids": [
+        "N01",
+        "N02",
+        "N03"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N01",
+          "title": "央行开展1.4万亿元6个月期买断式逆回购，净投放5000亿元",
+          "source": "上海证券报",
+          "url": "https://paper.cnstock.com/html/2026-07/15/content_2244905.htm"
+        },
+        {
+          "news_id": "N02",
+          "title": "《扩大消费“十五五”规划》明确支持扩大消费领域信贷投放",
+          "source": "中国政府网 / 商务部",
+          "url": "https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/gnmygl/art/2026/art_c9b4c4851de94b18809007ff90d9cce0.html"
+        },
+        {
+          "news_id": "N03",
+          "title": "多家银行推出暑期消费贷让利活动，部分年化利率低至3%",
+          "source": "新华网（来源：证券日报）",
+          "url": "https://www.xinhuanet.com/20260708/afd25675dbe942589b05ca056c20469c/c.html"
+        }
+      ],
+      "validation_due": "2027-07-15",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
+    },
+    {
+      "trend_id": "2026-07-15-M01",
+      "report_date": "2026-07-15",
+      "period": "未来1个月",
+      "prediction": "银行将继续围绕暑期文旅、教育、家装等场景加码消费贷与贴息营销，同时加密新客首逾和优惠套利监测。",
+      "basis": "N02提供扩大消费信贷和优化贴息的政策依据，N03证明多家银行已进入暑期场景化低价获客窗口。",
+      "basis_news_ids": [
+        "N02",
+        "N03"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N02",
+          "title": "《扩大消费“十五五”规划》明确支持扩大消费领域信贷投放",
+          "source": "中国政府网 / 商务部",
+          "url": "https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/gnmygl/art/2026/art_c9b4c4851de94b18809007ff90d9cce0.html"
+        },
+        {
+          "news_id": "N03",
+          "title": "多家银行推出暑期消费贷让利活动，部分年化利率低至3%",
+          "source": "新华网（来源：证券日报）",
+          "url": "https://www.xinhuanet.com/20260708/afd25675dbe942589b05ca056c20469c/c.html"
+        }
+      ],
+      "validation_due": "2026-08-14",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
+    },
+    {
+      "trend_id": "2026-07-15-M06",
+      "report_date": "2026-07-15",
+      "period": "未来3-6个月",
+      "prediction": "消费信贷投放环境将保持相对稳定，但机构竞争将从短期低利率转向客群分层、场景验真、风险定价和存量复借。",
+      "basis": "N01显示央行以中期工具稳定银行体系流动性，N02确立消费信贷政策方向，N03同时显示纯价格竞争的可持续性有限。",
+      "basis_news_ids": [
+        "N01",
+        "N02",
+        "N03"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N01",
+          "title": "央行开展1.4万亿元6个月期买断式逆回购，净投放5000亿元",
+          "source": "上海证券报",
+          "url": "https://paper.cnstock.com/html/2026-07/15/content_2244905.htm"
+        },
+        {
+          "news_id": "N02",
+          "title": "《扩大消费“十五五”规划》明确支持扩大消费领域信贷投放",
+          "source": "中国政府网 / 商务部",
+          "url": "https://www.mofcom.gov.cn/zfxxgk/fdzdgknr/ztfl/gnmygl/art/2026/art_c9b4c4851de94b18809007ff90d9cce0.html"
+        },
+        {
+          "news_id": "N03",
+          "title": "多家银行推出暑期消费贷让利活动，部分年化利率低至3%",
+          "source": "新华网（来源：证券日报）",
+          "url": "https://www.xinhuanet.com/20260708/afd25675dbe942589b05ca056c20469c/c.html"
+        }
+      ],
+      "validation_due": "2027-01-11",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
     }
   ],
-  "last_updated": "2026-07-14"
+  "last_updated": "2026-07-15"
 }
