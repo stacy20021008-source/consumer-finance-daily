@@ -220,7 +220,120 @@
         "evidence": [],
         "notes": null
       }
+    },
+    {
+      "trend_id": "2026-07-16-LT",
+      "report_date": "2026-07-16",
+      "period": "长期趋势",
+      "prediction": "消费金融商业模式将从渠道驱动和高息覆盖风险，转向自营获客、自主风控、透明定价与全生命周期资产管理。",
+      "basis": "N03提供监管和业务边界收紧的直接信号，N01与N02共同说明行业必须在真实需求与可持续偿债能力基础上增长。",
+      "basis_news_ids": [
+        "N01",
+        "N02",
+        "N03"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N01",
+          "title": "央行上半年金融统计：住户短期贷款减少5881亿元",
+          "source": "中国人民银行（武汉市地方金融工作局转载）",
+          "url": "https://jrj.wuhan.gov.cn/ynzx_57/xwzx/202607/t20260715_2821473.shtml"
+        },
+        {
+          "news_id": "N02",
+          "title": "国家统计局：上半年居民人均可支配收入增长5.2%，消费支出增长3.7%",
+          "source": "国家统计局",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202607/t20260715_1964129.html"
+        },
+        {
+          "news_id": "N03",
+          "title": "助贷业务迎合规收紧：融资担保类业务占比与综合融资成本受约束",
+          "source": "中国基金报",
+          "url": "https://www.chnfund.com/article/703bfd68-03b3-440d-4ed3-3a226a4cf6df"
+        }
+      ],
+      "validation_due": "2027-07-16",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
+    },
+    {
+      "trend_id": "2026-07-16-M01",
+      "report_date": "2026-07-16",
+      "period": "未来1个月",
+      "prediction": "银行和消费金融机构将集中排查助贷渠道、担保合作及综合融资成本披露，并收紧高成本或自主风控不足的新增业务。",
+      "basis": "N03显示多地助贷业务边界和融资成本规则进入密集落实期，N01显示居民短贷需求偏弱，使机构更难依靠规模增长消化合规改造成本。",
+      "basis_news_ids": [
+        "N01",
+        "N03"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N01",
+          "title": "央行上半年金融统计：住户短期贷款减少5881亿元",
+          "source": "中国人民银行（武汉市地方金融工作局转载）",
+          "url": "https://jrj.wuhan.gov.cn/ynzx_57/xwzx/202607/t20260715_2821473.shtml"
+        },
+        {
+          "news_id": "N03",
+          "title": "助贷业务迎合规收紧：融资担保类业务占比与综合融资成本受约束",
+          "source": "中国基金报",
+          "url": "https://www.chnfund.com/article/703bfd68-03b3-440d-4ed3-3a226a4cf6df"
+        }
+      ],
+      "validation_due": "2026-08-15",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
+    },
+    {
+      "trend_id": "2026-07-16-M06",
+      "report_date": "2026-07-16",
+      "period": "未来3-6个月",
+      "prediction": "消费信贷投放将更多转向有真实交易数据的场景、存量优质客户和分层定价，行业增量恢复仍取决于居民信用需求改善。",
+      "basis": "N01的住户短贷收缩表明信用需求尚弱，N02显示居民收入改善但消费支出增长相对温和，N03则压缩外部助贷和高成本模式的扩张空间。",
+      "basis_news_ids": [
+        "N01",
+        "N02",
+        "N03"
+      ],
+      "source_snapshot": [
+        {
+          "news_id": "N01",
+          "title": "央行上半年金融统计：住户短期贷款减少5881亿元",
+          "source": "中国人民银行（武汉市地方金融工作局转载）",
+          "url": "https://jrj.wuhan.gov.cn/ynzx_57/xwzx/202607/t20260715_2821473.shtml"
+        },
+        {
+          "news_id": "N02",
+          "title": "国家统计局：上半年居民人均可支配收入增长5.2%，消费支出增长3.7%",
+          "source": "国家统计局",
+          "url": "https://www.stats.gov.cn/sj/zxfbhjd/202607/t20260715_1964129.html"
+        },
+        {
+          "news_id": "N03",
+          "title": "助贷业务迎合规收紧：融资担保类业务占比与综合融资成本受约束",
+          "source": "中国基金报",
+          "url": "https://www.chnfund.com/article/703bfd68-03b3-440d-4ed3-3a226a4cf6df"
+        }
+      ],
+      "validation_due": "2027-01-12",
+      "status": "待验证",
+      "validation": {
+        "checked_at": null,
+        "result": null,
+        "evidence": [],
+        "notes": null
+      }
     }
   ],
-  "last_updated": "2026-07-15"
+  "last_updated": "2026-07-16"
 }
